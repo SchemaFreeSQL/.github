@@ -16,7 +16,7 @@ Radical Data Structures have the same _fluidity_ as code. Instead of the typical
 Working with data should NOT be difficult, especially when you are trying to simplify your infrastructure within a serverless paradigm.
 
 To illustrate how easy it can be, our non-techie CEO wrote some demo apps _(live demos included)_:
-| Demo | github link |
-| ------ | ------ |
-| Shop Admin | [apps/shopadmin](../../../apps/tree/main/shopadmin) |
-| Todo List | [apps/todo](../../../apps/tree/main/todo) |
+| Demo | About | github link |
+| ------ | ------ | ------ |
+| Shop Admin | a single payload both populates datastore and queries suppliers, products, customers and orders | [apps/shopadmin](../../../apps/tree/main/shopadmin) |
+| Todo List | a simple todo list | [apps/todo](../../../apps/tree/main/todo) |
