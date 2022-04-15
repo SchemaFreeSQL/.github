@@ -1,7 +1,5 @@
 # SchemafreeSQL
 
-[![Twitter handle][]]
-
 ### SchemafreeSQL is a cloud datastore for Radical Data Structures
 Radical Data Structures have the same _fluidity_ as code. Instead of the typical process of modeling data structures and then coding within the confines of those models, you code your application and the structure of the data follows. The idea is simple, but the implications are "radical". And the end result is that you become a more productive developer.
 
