@@ -18,7 +18,7 @@ Working with data should NOT be difficult, especially when you are trying to sim
 To illustrate how easy it can be, our non-techie CEO wrote some demo apps _(live demos included)_:
 | Demo | About | github link |
 | ------ | ------ | ------ |
-| Shop Admin | a single payload both populates datastore and queries suppliers, products, customers and orders | [apps/shopadmin](../../../apps/tree/main/shopadmin) |
-| Todo List | a simple todo list | [apps/todo](../../../apps/tree/main/todo) |
+| Shop Admin | a single payload both populates datastore and queries suppliers, products, customers and orders. (php,cloudfalre Worker,Deno Deploy,Netlify)  | [apps/shopadmin](../../../apps/tree/main/shopadmin) |
+| Todo List | todo list in varioes platforms (php,cloudfalre Worker,Deno Deploy)| [apps/todo](../../../apps/tree/main/todo) |
 | Blog  | a simple php blog platform | [apps/blog](../../../apps/tree/main/blog/php) |
-| Blog  | a php script to navigate SFSQL Objects | [apps/objectTreeWalker](../../../apps/tree/main/objectTreeWalker/php) |
+| Object Tree Walker  | a php script to navigate SFSQL Objects | [apps/objectTreeWalker](../../../apps/tree/main/objectTreeWalker/php) |
