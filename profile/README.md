@@ -18,5 +18,5 @@ Working with data should NOT be difficult, especially when you are trying to sim
 To illustrate how easy it can be, our non-techie CEO wrote some demo apps _(live demos included)_:
 | Demo | github link |
 | ------ | ------ |
-| Shop Admin | [apps/shopadmin](../../../../apps/tree/main/shopadmin) |
-| Todo List | [apps/todo](../../../../apps/tree/main/todo) |
+| Shop Admin | [apps/shopadmin](../../../apps/tree/main/shopadmin) |
+| Todo List | [apps/todo](../../../apps/tree/main/todo) |
