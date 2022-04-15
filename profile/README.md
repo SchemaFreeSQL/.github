@@ -20,3 +20,4 @@ To illustrate how easy it can be, our non-techie CEO wrote some demo apps _(live
 | ------ | ------ | ------ |
 | Shop Admin | a single payload both populates datastore and queries suppliers, products, customers and orders | [apps/shopadmin](../../../apps/tree/main/shopadmin) |
 | Todo List | a simple todo list | [apps/todo](../../../apps/tree/main/todo) |
+| Blog  | a simple php blog | [apps/blog](../../../apps/tree/main/todo) |
