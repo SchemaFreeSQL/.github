@@ -22,3 +22,4 @@ To illustrate how easy it can be, our non-techie CEO wrote some demo apps _(live
 | Todo List | todo list in varioes platforms (PHP, Cloudfalre Worker, Deno Deploy)| [apps/todo](../../../apps/tree/main/todo) |
 | Blog  | a simple PHP blog platform | [apps/blog](../../../apps/tree/main/blog/php) |
 | Object Tree Walker  | a PHP script to navigate SFSQL Objects | [apps/objectTreeWalker](../../../apps/tree/main/objectTreeWalker/php) |
+| Netlify Site  | a Netlify site continig the Todo and Shop amin apps via Netlify AWS Lambda funstions | [https://harmonious-mermaid-c4d794.netlify.app/] |
