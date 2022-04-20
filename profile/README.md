@@ -6,7 +6,7 @@ Radical Data Structures have the same _fluidity_ as code. Instead of the typical
 ### Features
 
 - _INSTANT_: No schemas to create. No collections to create. No indexes to manage. No drivers to install.
-- _SIMPLE_: Create, modify and query complex structures with ease
+- _SIMPLE_: Create, modify and query complex structures with ease over a JSON-over-HTTP Data API
 - _POWERFUL_: Use sensible, normalized data structures with any-to-any Object References
 - _FEARLESS_: Safely alter data structures with Classless Objects and evolve their names and locations
 - _SQL_: Perform adhoc queries using a familiar SQL-like language
