@@ -9,7 +9,9 @@ Fluid Data Structures have the same _fluidity_ as code. Instead of the typical p
 - _SIMPLE_: Create, modify and query complex structures with ease over a JSON-over-HTTP Data API
 - _POWERFUL_: Use sensible, normalized data structures with any-to-any Object References
 - _FEARLESS_: Safely alter data structures with Classless Objects and evolve their names and locations
-- _SQL_: Perform adhoc queries using a familiar SQL-like language
+- _KNOWN_: Perform adhoc queries using a familiar SQL-like language
+- _PROVEN_: Choice of SQL back-ends: MySQL, PostgresSQL, PlanetScale, MariaDB, SQLserver, Aurora, SQLite, Et al.
+- _INTEGRITY_: Dynamically-typed attributes {"s:varname": "hello"} "varname" typed as "string" auto-interpreted: {"varname": "hello"} "varname" typed as "string"
 
 
 ### Demo Apps
