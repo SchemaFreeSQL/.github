@@ -1,9 +1,9 @@
 # SchemafreeSQL
 
-## SchemafreeSQL is a cloud datastore for Fluid Data Structures
-Fluid Data Structures have the same _fluidity_ as code. Instead of the typical process of modeling data structures and then coding within the confines of those models, you code your application and the structure of the data follows. The idea is simple, but the implications are "radical". And the end result is that you become a more productive developer.
+## A Cloud Datastore for Fluid Data Structures
+With SFSQL Data has the same _fluidity_ as code. The structure of the Data is _shaped_ as you code your application. The idea is simple, but the implications are _radical_. The end result is that you become a more productive developer. 
 
-### Features
+<!-- ### Features
 
 - _INSTANT_: No schemas to create. No collections to create. No indexes to manage. No drivers to install.
 - _SIMPLE_: Create, modify and query complex structures with ease over a JSON-over-HTTP Data API
@@ -11,8 +11,7 @@ Fluid Data Structures have the same _fluidity_ as code. Instead of the typical p
 - _FEARLESS_: Safely alter data structures with Classless Objects and evolve their names and locations
 - _KNOWN_: Perform adhoc queries using a familiar SQL-like language
 - _PROVEN_: Choice of SQL back-ends: MySQL, PostgresSQL, PlanetScale, MariaDB, SQLserver, Aurora, SQLite, Et al.
-- _INTEGRITY_: Dynamically-typed attributes {"s:varname": "hello"} "varname" typed as "string" auto-interpreted: {"varname": "hello"} "varname" typed as "string"
-
+- _INTEGRITY_: Dynamically-typed attributes {"s:varname": "hello"} "varname" typed as "string" auto-interpreted: {"varname": "hello"} "varname" typed as "string"-->
 
 ### Demo Apps
 Working with data should NOT be difficult, especially when you are trying to simplify your infrastructure within a serverless paradigm.
