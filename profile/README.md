@@ -17,7 +17,7 @@ With SFSQL Data has the same _fluidity_ as code. The structure of the Data is _s
 Working with data should NOT be difficult, especially when you are trying to simplify your infrastructure within a serverless paradigm.
 
 To illustrate how easy it can be, our non-techie CEO wrote some demo apps _(live demos included)_:
-| Demo | About | github | Live Demos |
+| Demo | About | Repo. | Live Demos |
 |:------ |:------ |:------ |:------ |
 | Shop&nbsp;Admin | This is our "Hello World" Demo. A single payload that both populates a SFSQL Cloud datastore and queries suppliers, products, customers and orders. Demo available in various platforms and languages.  | [apps/shopadmin](https://github.com/SchemaFreeSQL/apps/tree/main/shopadmin) | [PHP](https://schemafreesql.com/shopadmin/) <br/>[CF&nbsp;Worker](https://shopadmin.sfsql.workers.dev/) <br/>[Deno&nbsp;Deploy](https://sfsqlshopadmin.deno.dev/) <br/>[Netlify&nbsp;(AWS&nbsp;Lambda)](https://harmonious-mermaid-c4d794.netlify.app/.netlify/functions/shopadmin) <br/>[GCF](https://us-east1-sfsql-347312.cloudfunctions.net/shopadmin) <br/>[Azure](https://sfsqltodo.azurewebsites.net/api/shopadmin)
 | Todo&nbsp;List | Todo List App in varioes platforms | [apps/todo](https://github.com/SchemaFreeSQL/apps/tree/main/todo) | [PHP](https://schemafreesql.com/apps/todo/) <br/>[CF&nbsp;Worker](https://sfsqltodo.sfsql.workers.dev/) <br/>[Deno&nbsp;Deploy](https://sfsqltodo.deno.dev/) <br/>[GCF](https://us-east1-sfsql-347312.cloudfunctions.net/sfsqltodo) <br/>[Azure](https://sfsqltodo.azurewebsites.net/api/todo)<br>[Netlify (AWS Lambda)](https://harmonious-mermaid-c4d794.netlify.app/todo)
