@@ -1,7 +1,7 @@
 # SchemafreeSQL
 
 ## A Cloud Datastore for Fluid Data Structures
-With SFSQL Data has the same _fluidity_ as code. The structure of the Data is _shaped_ as you code your application. The idea is simple, but the implications are _radical_. The end result is that you become a more productive developer. 
+With SFSQL data has the same _fluidity_ as code. The structure of the data is _shaped_ as you code your application. The idea is simple, but the implications are _radical_. The end result is that you become a more productive developer. 
 
 <!-- ### Features
 
